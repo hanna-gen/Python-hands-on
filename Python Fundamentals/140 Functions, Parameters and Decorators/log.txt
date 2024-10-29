@@ -1,0 +1,2 @@
+2024-10-29 12:15:03.957898: function my_function called with positional arguments ('Ivan',) and keyword arguments {}. 
+2024-10-29 12:15:03.957898: function my_function called with positional arguments ('Hanna',) and keyword arguments {}. 
